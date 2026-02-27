@@ -6,8 +6,7 @@ The primary goal of this project is to build an AI assistant that can analyze co
 
 ## 📂 Repository Contents
 
-*   **`fine_tuning_lab_tests.jsonl`**: The primary dataset formatted in JSONL (JSON Lines) ready for conversational fine-tuning.
-*   **`fine_tuning_lab_tests_readable.json`**: A formatted, pretty-printed version of the dataset meant for human review and analysis.
+*   **`fine_tuning_lab_tests.jsonl`**: The primary dataset formatted in JSONL (JSON Lines) ready for conversational fine-tuning.*   
 *   **`fine_tune_unsloth.ipynb`**: A complete Jupyter Notebook pipeline for fine-tuning the model locally. It is heavily optimized (using Unsloth and 4-bit LoRA) to run comfortably on an 8GB VRAM GPU.
 
 ## 📊 Dataset Overview
